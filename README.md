@@ -1,5 +1,7 @@
 # Godot_MovingByMouse
 
+#en
+
 Brief: Script for moving objects with the mouse in 3d. Such as trees in the landscape editor.
 
 License: Public domain.
@@ -20,7 +22,7 @@ And everything. Now you can create an earth object, and objects that move around
 
 
 
-#Ru
+#ru
 
 Краткое описание: Скрипт для перемещения объектов с помощью мыши (в 3d). Например, деревьев в редакторе ландшафта.
 
