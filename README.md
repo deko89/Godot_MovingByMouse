@@ -1,6 +1,5 @@
 # Godot_MovingByMouse
 
-#En
 Brief: Script for moving objects with the mouse in 3d. Such as trees in the landscape editor.
 
 License: Public domain.
