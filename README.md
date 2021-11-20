@@ -2,11 +2,11 @@
 
 #en
 
-Brief: Script for moving objects with the mouse in 3d. Such as trees in the landscape editor.
+Brief: Script for moving objects with the mouse. Such as trees in the landscape editor. In 3d (but now only along the plane).
 
 License: Public domain.
 
-The script for Godot Engine. It Can move objects, using the mouse, on the ground (in 3d).
+The script for Godot Engine. It Can move objects, using the mouse, on the ground.
 It also allows you to select multiple objects, and move them.
 Collision calculation is automatic by Godot Engine (therefore it is fast).
 
@@ -24,7 +24,7 @@ And everything. Now you can create an earth object, and objects that move around
 
 #ru
 
-Краткое описание: Скрипт для перемещения объектов с помощью мыши (в 3d). Например, деревьев в редакторе ландшафта.
+Краткое описание: Скрипт для перемещения объектов с помощью мыши. Например, деревьев в редакторе ландшафта. В 3д (но пока только вдоль плоскости).
 
 Лицензия: Общественное достояние.
 
