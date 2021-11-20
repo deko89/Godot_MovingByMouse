@@ -1,5 +1,9 @@
 extends Spatial
 
+# Layer masks selected objects, and ground objects.
+const groundMask = 0b10000000000000000000
+const pickMask = 0b00000000000000000001
+
 # Mouse
 var mousePosScreen = Vector2()
 # Select and movint objects by mouse.
